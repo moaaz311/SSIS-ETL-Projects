@@ -1,0 +1,2 @@
+Crs_Id,St_Id,Grade,Crs_Name,Crs_Duration
+1200,3,80,photoshop,30

@@ -1,0 +1,9 @@
+Crs_Id,St_Id,Grade,Crs_Name,Crs_Duration
+100,4,70,html,20
+100,2,90,html,20
+100,3,80,html,20
+100,1,100,html,20
+100,5,100,html,20
+100,6,90,html,20
+1200,3,80,photoshop,30
+700,8,70,web service,20

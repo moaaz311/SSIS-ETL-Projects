@@ -1,0 +1,30 @@
+Crs_Id,St_Id,Grade,Crs_Name,Crs_Duration
+400,1,100,unix,50
+400,5,90,unix,50
+400,4,90,unix,50
+400,3,100,unix,50
+400,2,100,unix,50
+500,6,80,sql server,60
+900,5,60,oracle,50
+900,4,70,oracle,50
+900,3,70,oracle,50
+900,2,80,oracle,50
+300,5,70,oop,80
+300,6,70,oop,80
+300,7,70,oop,80
+300,10,100,oop,80
+800,10,90,java,60
+800,1,70,java,60
+800,9,90,java,60
+600,7,80,c#,80
+200,4,80,c progamming,60
+200,5,80,c progamming,60
+200,7,60,c progamming,60
+200,8,60,c progamming,60
+200,9,60,c progamming,60
+200,1,90,c progamming,60
+200,2,90,c progamming,60
+200,3,80,c progamming,60
+1000,3,60,asp.net,60
+1000,1,90,asp.net,60
+1000,2,60,asp.net,60
